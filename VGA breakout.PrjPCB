@@ -71,23 +71,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HKVCQTLB
 
 [Document3]
-DocumentPath=VGA breakout.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VQWFLYUY
-
-[Document4]
 DocumentPath=VGA breakout.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -103,6 +86,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISTOBGKW
+
+[Document4]
+DocumentPath=VGA breakout.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VQWFLYUY
 
 [Document5]
 DocumentPath=CAMtastic1.Cam
@@ -122,38 +122,130 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for VGA breakout\Design Rule Check - VGA breakout.html
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for VGA breakout\VGA breakout.EXTREP
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for VGA breakout\VGA breakout.GBL
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for VGA breakout\VGA breakout.GM1
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\1\features
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for VGA breakout\VGA breakout.GM13
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for VGA breakout\VGA breakout.GM15
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for VGA breakout\VGA breakout.GTL
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for VGA breakout\VGA breakout.REP
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\drilldrawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\drillguide\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\keepout\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\mechanical1\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\mechanical13\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\mechanical15\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\multilayer\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\top\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\topoverlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\toppaste\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\topsolder\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for VGA breakout\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for VGA breakout\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for VGA breakout\VGA breakout.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for VGA breakout\VGA breakout.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for VGA breakout\VGA breakout.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for VGA breakout\VGA breakout.REP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
 DocumentPath=Project Outputs for VGA breakout\VGA breakout.RUL
 DItemRevisionGUID=
 
@@ -166,6 +258,45 @@ CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=0
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=0
+SaveSettingsToOutJob=0
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -484,53 +615,55 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=KONICA MINOLTA C250 PS(P)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=Plane
+OutputName3=Power-Plane Prints
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=ODB
+OutputName4=ODB++ Files
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 15=False|AddToAllPlots_Mechanical 16=False|AddToAllPlots_Mechanical 2=False|AddToAllPlots_Mechanical 3=False|AddToAllPlots_Mechanical 4=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set="Component Layers","All Layers"|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=True|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=True|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
 OutputType5=Test Points
 OutputName5=Test Point Report
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=Mask
-OutputName6=Solder/Paste Mask Prints
+OutputType6=CompositeDrill
+OutputName6=Composite Drill Drawing
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType7=NC Drill
-OutputName7=NC Drill Files
+OutputType7=Board Stack Report
+OutputName7=Report Board Stack
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=ODB
-OutputName8=ODB++ Files
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Final
+OutputName8=Final Artwork Prints
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=Plane
-OutputName9=Power-Plane Prints
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Drill
+OutputName9=Drill Drawing/Guides
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
@@ -1127,4 +1260,26 @@ ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confir
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration_Name1=OutputConfigurationParameter1
+Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration_Name2=OutputConfigurationParameter2
+Configuration_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration_Name3=OutputConfigurationParameter3
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name4=OutputConfigurationParameter4
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name5=OutputConfigurationParameter5
+Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name6=OutputConfigurationParameter6
+Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name7=OutputConfigurationParameter7
+Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name8=OutputConfigurationParameter8
+Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name9=OutputConfigurationParameter9
+Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name10=OutputConfigurationParameter10
+Configuration_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name11=OutputConfigurationParameter11
+Configuration_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|DDSymbolKind=0|DDSymbolSize=500000|DDSymbolSortKind=0|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
 
